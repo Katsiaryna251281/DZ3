@@ -37,11 +37,22 @@
 
 
 ## Работас ветками
+
+При работе с ветками используем следующие команды:
+
+* git branch
+* git branch branch_name
+* git checkout branch_name
+* git log --graph
+* git branch -d branch_name
+* git branch -D branch_name
+
 ## Работа с изображениями в Git
 
 Для работы с изображениями в файлах с языком разметки Markdown использовать следующую конструкцию:
 
 ![lion.jpg](lion.jpg)
+
 # Добавили скриншот
 
 ![screenshot.JPG](screenshot.JPG)
