@@ -10,6 +10,11 @@
 * git checkout
 * git diff
 * git branch
+* git branch branch_name
+* git checkout branch_name
+* git log --graph
+* git branch -d branch_name
+* git branch -D branch_name
 
 ### Подробно о командах
 
